@@ -1,6 +1,6 @@
 # Phantancy Home Page
 
-[WebSite](www.phantancy.org)
+[WebSite](http://www.phantancy.org)
 ```
 In construction
 ```
